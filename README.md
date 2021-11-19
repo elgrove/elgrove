@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭  I’m currently working on These Times, a newsreader with articles from paywalled sites, built in a microservices-style architecture with communication between containers via HTTP
+🔭  I’m currently working on These Times, a newsreader with articles from paywalled sites, self-hostable with docker-compose
 
 🌱  I created [nflfunindex.com](https://www.nflfunindex.com), a website that scrapes data and ranks NFL games for how fun they were to watch  
 

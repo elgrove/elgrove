@@ -2,8 +2,8 @@
 
 🔭 I’m currently working on These Times, a newsreader with articles from paywalled sites  
 🌱 I created [nflfunindex.com](nflfunindex.com), a website that scrapes data and ranks NFL games for how fun they were to watch  
-- 🔎 I'm currently looking for software developer or data engineer positions  
-- 💬 Contact me on [LinkedIn](https://www.linkedin.com/in/aaron-lloyd-13206620b)  
+🔎 I'm currently looking for software developer or data engineer positions  
+💬 Contact me on [LinkedIn](https://www.linkedin.com/in/aaron-lloyd-13206620b)  
 
 
 <!--

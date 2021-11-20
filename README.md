@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hello 👋
 
-🔭  I’m currently working on These Times, a newsreader with articles from paywalled sites, self-hostable with docker-compose
+🐍  I primarily work in Python  
 
-🌱  I created [nflfunindex.com](https://www.nflfunindex.com), a website that scrapes data and ranks NFL games for how fun they were to watch  
+🔭  I’m currently working on These Times, a newsreader with articles from paywalled sites  
+
+🌱  I created [nflfunindex.com](https://www.nflfunindex.com), a website rates NFL games for how fun they were to watch  
 
 🔎  I'm currently looking for software developer or data engineer positions
 

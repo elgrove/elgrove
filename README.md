@@ -1,6 +1,6 @@
-### Hello 👋
+### Hello, I'm Aaron 👋
 
-🐍  I primarily work in Python  
+🐍  I develop in Python and love tinkering with linux servers  
 
 🔭  I’m currently working on These Times, a newsreader with articles from paywalled sites  
 

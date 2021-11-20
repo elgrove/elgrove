@@ -8,7 +8,7 @@
 
 🔎  I'm currently looking for software developer or data engineer positions
 
-📦  I have built project from start to finish including containerised deployment on my own server 
+📦  I have built projects from start to finish including containerised deployment on my own server 
 
 💬 Contact me on [LinkedIn](https://www.linkedin.com/in/aaron-lloyd-13206620b)  
 

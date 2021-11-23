@@ -2,9 +2,9 @@
 
 🐍  I mostly write Python, plus some JS, and love tinkering with linux servers  
 
-🔭  I’m currently working on These Times, a newsreader with articles from paywalled sites  
+🌱  I’m currently working on These Times, a newsreader with articles from paywalled sites  
 
-🌱  I created [nflfunindex.com](https://www.nflfunindex.com), a website rates NFL games for how fun they were to watch  
+🏈  I created [nflfunindex.com](https://www.nflfunindex.com), a website rates NFL games for how fun they were to watch  
 
 🔎  I'm currently looking for software developer or data engineer positions
 

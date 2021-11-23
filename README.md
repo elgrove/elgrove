@@ -1,6 +1,6 @@
 ### Hello, I'm Aaron 👋
 
-🐍  I mostly write Python, plus some JS, and love tinkering with linux servers  
+🐍  I make websites with Python and JavaScript, and love tinkering with linux servers  
 
 🌱  I’m currently working on These Times, a newsreader with articles from paywalled sites  
 

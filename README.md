@@ -6,7 +6,7 @@
 
 🏈  I created [nflfunindex.com](https://www.nflfunindex.com), a website rates NFL games for how fun they were to watch  
 
-🔎  I'm currently looking for software developer or data engineer positions
+🔎  I'm currently looking for a software developer position in London or remote
 
 📦  I have built projects from start to finish including containerised deployment on my own server 
 

@@ -4,6 +4,8 @@
 
 🌱  I’m currently working on These Times, a newsreader with articles from paywalled sites  
 
+🌱  I’m also working on `gong`, another one of those static site generators inspired by Jekyll
+
 🏈  I created [nflfunindex.com](https://www.nflfunindex.com), a website that rates NFL games for how fun they are to watch  
 
 🔎  I'm currently looking for a software developer position in London or remote

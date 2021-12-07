@@ -6,7 +6,7 @@
 
 🌱  I’m also working on `gong`, another one of those static site generators inspired by Jekyll
 
-🏈  I created [nflfunindex.com](https://www.nflfunindex.com), a website that rates NFL games for how fun they are to watch  
+🏈  I created [nflfunindex.com](https://www.nflfunindex.com), a website that rates past NFL games for how fun they were to watch  
 
 🔎  I'm currently looking for a software developer position in London or remote
 

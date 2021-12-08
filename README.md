@@ -12,7 +12,7 @@
 
 📦  I have built projects from start to finish including containerised deployment on my own server 
 
-💬 Contact me on [LinkedIn](https://www.linkedin.com/in/aaron-lloyd-13206620b)  
+💬 Contact me at [hello@elgrove.xyz](mailto:hello@elgrove.xyz)
 
 
 <!--

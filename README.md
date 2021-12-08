@@ -2,7 +2,7 @@
 
 🐍  I make websites with Python and JavaScript, and love tinkering with Linux servers at home and in the cloud  
 
-🚢  I just shipped the first release of [These Times](https://news.elgrove.xyz), a newsreader with articles from paywalled sites  
+🚢  I just shipped the first release of [These Times](https://news.elgrove.xyz), a news aggregator with articles from paywalled sites  
 
 🌱  I’m also working on `gong`, another one of those static site generators inspired by Jekyll
 

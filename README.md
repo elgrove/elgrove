@@ -1,10 +1,12 @@
 ### Hello, I'm Aaron 👋
 
-🐍  I'm a Python specialist with broad knowledge of the standard lib, the broader ecosystem and modern automated tooling
+🐍  I'm a Python specialist with experience all over the standard library and the broader ecosystem
 
 🦄  I'm currently working for a pioneer in behavioural analytics for investment professionals
 
 🧱  We're building a new platform for scale, as event-driven serverless microservices on AWS
+
+🛠  I'm interested in modern tooling that can make a developer's life easier
 
 🏘  I occasionally code in my spare time and have some little projects here
 

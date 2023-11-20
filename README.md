@@ -8,7 +8,7 @@
 
 🛠  I'm interested in modern tooling that can make a developer's life easier
 
-🏘  I occasionally code in my spare time and have some little projects here
+🏘  I occasionally code in my spare time and have some projects hosted here
 
 🐎  Check out the AWS Chalice & Terraform pattern for super fast app development, I think it's pretty cool
 

@@ -4,7 +4,7 @@
 
 🦄  I'm currently working for a pioneer in behavioural analytics for investment professionals
 
-🧱  We're building a new platform for scale, as event-driven serverless microservices on AWS
+🧱  We're building a new platform for scale on AWS with event-driven microservices
 
 🛠  I'm interested in modern tooling that can make a developer's life easier
 

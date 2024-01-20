@@ -4,11 +4,11 @@
 
 🦄  I'm currently working for a pioneer in behavioural analytics for investment professionals
 
-🧱  We're building a new platform for scale on AWS with event-driven microservices
+🧱  We're building a new platform for scale on AWS with event-driven, serverless microservices
 
 🛠  I'm interested in modern tooling that can make a developer's life easier
 
-🏘  I occasionally code in my spare time and have some projects hosted here
+🏘  I like to write code to solve problems in my day-to-day life, the fruits of which can be found here
 
 🐎  Check out the AWS Chalice & Terraform pattern for super fast app development, I think it's pretty cool
 

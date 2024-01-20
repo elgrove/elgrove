@@ -8,8 +8,8 @@
 
 🛠  I'm interested in modern tooling that can make a developer's life easier
 
-🏘  I like to write code to solve problems in my day-to-day life, the fruits of which can be found here
+🐎  Check out the [terroir](https://github.com/elgrove/terroir) framework for super fast serverless app development
 
-🐎  Check out the AWS Chalice & Terraform pattern for super fast app development, I think it's pretty cool
+🏘  I like to write code to solve problems in my day-to-day life, some of the results can be found below
 
 💬  You can contact me by email: hello at lgrv dot net

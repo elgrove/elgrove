@@ -1,6 +1,6 @@
 ### Hello, I'm Aaron 👋
 
-🐍  I'm a Python specialist with experience all over the standard library and the broader ecosystem
+🐍  I'm a Python specialist with experience all over the ecosystem
 
 🦄  I'm currently working for a pioneer in behavioural analytics for investment professionals
 
